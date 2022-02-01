@@ -5,7 +5,7 @@
     }
    
 ],
-"routers":[
+"routes":[
     {
         "src":"/.*",
         "dest":"app.js"
